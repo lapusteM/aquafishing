@@ -1,0 +1,33 @@
+
+.header {
+    margin: 0;
+    background-color: #272727;
+    width: 100%;
+    padding: 10px;
+}
+
+.header a{
+    color: #af340f;
+    text-decoration: none;
+    border-right: solid 1px #414141;
+    padding: 10px;
+}
+
+.header li {
+    display: inline;
+    font-family: 'Righteous';
+
+}
+
+
+
+.content {
+
+    width: 1000px;
+}
+.my-header, .my-content{
+    width: 800px;
+
+}
+
+
