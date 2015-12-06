@@ -1,33 +1,15 @@
-
-.header {
-    margin: 0;
-    background-color: #272727;
-    width: 100%;
-    padding: 10px;
+.nav {
+    color: #5a5a5a;
+    font-size: 24px;
+    font-weight: bold;
+    padding-top:14px;
+    padding-bottom:14px;
+    padding-left:10px;
+    padding-right:10px;
+    text-transform:uppercase;
 }
-
-.header a{
-    color: #af340f;
-    text-decoration: none;
-    border-right: solid 1px #414141;
-    padding: 10px;
+.jumbotron{
+    height: 500px;
+    background-image:url('http://www.lonemountainranch.com/uploads/page-slideshows/195/pg_flyfishing_montana_003__large.jpg');
+    width: inherit;
 }
-
-.header li {
-    display: inline;
-    font-family: 'Righteous';
-
-}
-
-
-
-.content {
-
-    width: 1000px;
-}
-.my-header, .my-content{
-    width: 800px;
-
-}
-
-
